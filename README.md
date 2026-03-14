@@ -38,18 +38,6 @@ Este projeto foi desenvolvido como parte do meu portfólio para demonstrar habil
 
 ---
 
-## 📂 Estrutura do projeto
-orba-agency
-│
-├── index.html
-├── assets
-│ ├── css
-│ ├── js
-│ ├── images
-│ └── videos
-
----
-
 ## 🎯 Objetivo do projeto
 
 Este projeto foi criado com o objetivo de praticar e demonstrar habilidades em:
