@@ -5,6 +5,25 @@ Este projeto foi desenvolvido como parte do meu portfólio para demonstrar habil
 
 ---
 
+## 📸 Screenshots
+
+![Home](assets/screenshots/1.png)
+![Home](assets/screenshots/2.png)
+![Home](assets/screenshots/3.png)
+![Home](assets/screenshots/4.png)
+![Home](assets/screenshots/5.png)
+![Home](assets/screenshots/6.png)
+![Home](assets/screenshots/7.png)
+![Home](assets/screenshots/8.png)
+![Home](assets/screenshots/9.png)
+![Home](assets/screenshots/10.png)
+![Home](assets/screenshots/11.png)
+![Home](assets/screenshots/12.png)
+![Home](assets/screenshots/13.png)
+![Home](assets/screenshots/14.png)
+
+---
+
 ## 🌐 Demo
 
 🔗 https://heloisacadenas.github.io/Orba-Agency/
