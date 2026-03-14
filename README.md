@@ -1,4 +1,4 @@
-# 🚀 Orba Agency
+# Orba Agency
 
 Website institucional fictício desenvolvido para uma agência de **Publicidade e Propaganda**, com foco em design moderno, responsividade e boas práticas de front-end.
 Este projeto foi desenvolvido como parte do meu portfólio para demonstrar habilidades em **desenvolvimento web e interface de usuário**.
