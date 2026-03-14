@@ -5,8 +5,7 @@ Este projeto foi desenvolvido como parte do meu portfólio para demonstrar habil
 
 ---
 
-## 📸 Screenshots
-
+## Telas
 
 ![Home](assets/screenshots/1.png)
 ![Home](assets/screenshots/2.png)
@@ -25,13 +24,13 @@ Este projeto foi desenvolvido como parte do meu portfólio para demonstrar habil
 
 ---
 
-## 🌐 Demo
+## Demo
 
 🔗 https://heloisacadenas.github.io/Orba-Agency/
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - Landing page moderna
 - Seção de serviços
@@ -46,7 +45,7 @@ Este projeto foi desenvolvido como parte do meu portfólio para demonstrar habil
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - **HTML5**
 - **CSS3**
@@ -58,7 +57,7 @@ Este projeto foi desenvolvido como parte do meu portfólio para demonstrar habil
 
 ---
 
-## 🎯 Objetivo do projeto
+## Objetivo do projeto
 
 Este projeto foi criado com o objetivo de praticar e demonstrar habilidades em:
 
@@ -72,7 +71,7 @@ Este projeto foi criado com o objetivo de praticar e demonstrar habilidades em:
 
 ---
 
-## 👩‍💻 Autora
+## Autora
 
 **Heloisa Cadenas**
 
